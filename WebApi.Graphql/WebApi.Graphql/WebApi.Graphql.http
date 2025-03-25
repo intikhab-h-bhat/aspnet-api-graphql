@@ -1,0 +1,6 @@
+@WebApi.Graphql_HostAddress = http://localhost:5135
+
+GET {{WebApi.Graphql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
